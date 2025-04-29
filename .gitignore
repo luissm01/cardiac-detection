@@ -1,0 +1,17 @@
+# Ignore datasets and generated files
+data/
+models/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Checkpoints and weights
+*.ckpt
+*.npy
+
+# OS-specific files
+.DS_Store
+Thumbs.db
